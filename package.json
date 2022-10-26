@@ -1,0 +1,16 @@
+{
+  "name": "github_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rishi",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "pdfkit": "^0.13.0",
+    "request": "^2.88.2"
+  }
+}
